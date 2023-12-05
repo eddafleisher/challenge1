@@ -19,8 +19,8 @@ Welcome to the Horiseon Digital Marketing Solutions project! This repository con
 
 1. Clone the repository to your local machine.
 
-   git clone 
-Open the index.html file in a web browser to view the HTML page.
+   git clone (https://github.com/eddafleisher/challenge1.git)
+   Open the index.html file in a web browser to view the HTML page.
 Explore the different sections of the page to understand the digital marketing services offered by Horiseon.
 
 
