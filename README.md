@@ -19,14 +19,14 @@ Welcome to the Horiseon Digital Marketing Solutions project! This repository con
 
 1. Clone the repository to your local machine.
 
-   git clone 
+   git clone https://github.com/eddafleisher/challenge1.git
 Open the index.html file in a web browser to view the HTML page.
 Explore the different sections of the page to understand the digital marketing services offered by Horiseon.
 
 
 ## Usage
 
-Open the HTML file in a web browser to view the content.
+Open the HTML file http://127.0.0.1:5500/starter/index.html in a web browser to view the content.
 Navigate through the sections.
 
 ## Credits
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 
 ## Features
 
-Semantic HTML: The document uses semantic HTML elements such as <header>, <main>, <article>, and <section> for better structure and accessibility.
+Semantic HTML: The document uses semantic HTML elements for better structure and accessibility.
 Styling: CSS is linked to the HTML document to provide a clean and visually appealing layout. The CSS file is located in the css folder.
 Added alt description to photos.
 Navigation: The document includes a navigation bar with links to different sections of the content.
