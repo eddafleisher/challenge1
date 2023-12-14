@@ -26,7 +26,7 @@ Explore the different sections of the page to understand the digital marketing s
 
 ## Usage
 
-Open the HTML file http://127.0.0.1:5500/starter/index.html in a web browser to view the content.
+Open the https://eddafleisher.github.io/challenge1/ in a web browser to view the content.
 Navigate through the sections.
 
 ## Credits
